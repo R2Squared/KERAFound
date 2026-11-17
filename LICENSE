@@ -1,0 +1,11 @@
+KERAFound code (this repository) is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International licence (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Model weights:
+- KERAFound-MAE-OCT and KERAFound-MAE-Placido are continued pretraining of the ImageNet MAE ViT-L/16 weights
+  (CC BY-NC 4.0) and are released under CC BY-NC 4.0.
+- KERAFound-DINOv3-OCT, KERAFound-DINOv3-Placido and KERAFound-DINOv3-Photo are derivative works of Meta's DINOv3
+  ViT-L/16 (LVD-1689M) weights and are distributed under the DINOv3 License; a copy is provided in LICENSE_DINOv3.md.
+  Built with DINOv3.
+
+The models are research tools. They are not medical devices and must not be used for clinical decision-making.
