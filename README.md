@@ -1,4 +1,4 @@
-# KERAFound: foundation models for the cornea and anterior segment
+# KERAFound: foundation models for the external eye and anterior segment
 
 KERAFound is a family of ViT-L/16 vision foundation models for corneal and anterior segment imaging. Each model is
 continued self-supervised pretraining of a general-purpose encoder on unlabelled images of one modality:
